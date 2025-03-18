@@ -10,7 +10,7 @@
 
 ### 主要功能
 
-[]!(https://github.com/yangwangxingkong165/supermarket/raw/main/Qt/photo/14.png)
+![](https://github.com/yangwangxingkong165/supermarket/raw/main/Qt/photo/14.png)
 
 #### 1.进货
 点击主页面“进货”，进入进货界面。
