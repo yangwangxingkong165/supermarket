@@ -8,6 +8,10 @@
 实现自动化库存同步：通过MySQL触发器实时更新商品库存，确保数据一致性，减少人工干预。
 设计多表关联视图（如商品详情视图），简化复杂查询逻辑，提升数据检索效率。
 
+### 基本功能
+
+实现
+
 ### 功能优化与创新
 
 动态权限管理：支持管理员分级权限（如普通员工仅查询，主管可修改），增强系统安全性。
@@ -23,8 +27,14 @@
 ### 1.自行在其他软件（如vscode，workbench等）运行sql.sql文件中的mysq语句，并使用ODBC创建数据库连接
 
 #### ODBC连接数据库
+
 链接数据库的方法参考以下教程[QT通过ODBC连接MYSQL并使用（保姆级）](https://blog.csdn.net/qq_72583325/article/details/133967965)
+
 ### 2.将项目clone至本地，在qt中打开Qt/untitled.pro 文件
+
+点击“打开文件或项目”，选择Qt/untitled.pro 文件
+
+![](https://github.com/yangwangxingkong165/supermarket/raw/main/Qt/photo/13.png)
 
 ### 3.修改main.cpp中的数据库连接部分内容
 ![](https://github.com/yangwangxingkong165/supermarket/raw/main/Qt/photo/12.png)
