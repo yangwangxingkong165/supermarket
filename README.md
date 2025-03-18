@@ -22,7 +22,13 @@
 
 ### 1.自行在其他软件（如vscode，workbench等）运行sql.sql文件中的mysq语句，并使用ODBC创建数据库连接
 
+#### ODBC连接数据库
+链接数据库的方法参考以下教程[QT通过ODBC连接MYSQL并使用（保姆级）](https://blog.csdn.net/qq_72583325/article/details/133967965)
 ### 2.将项目clone至本地，在qt中打开Qt/untitled.pro 文件
 
 ### 3.修改main.cpp中的数据库连接部分内容
 ![](https://github.com/yangwangxingkong165/supermarket/raw/main/Qt/photo/12.png)
+
+### 4.点击Qt构建并运行
+若出现“success”的提示则说明连接数据库成功。
+若出现“open failed”则说明连接数据库识别，下方控制台会输出错误原因
