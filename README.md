@@ -25,4 +25,4 @@
 ### 2.将项目clone至本地，在qt中打开Qt/untitled.pro 文件
 
 ### 3.修改main.cpp中的数据库连接部分内容
-
+![](https://github.com/yangwangxingkong165/supermarket/raw/master/Qt/photo/12.png)
